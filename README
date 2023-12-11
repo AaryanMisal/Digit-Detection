@@ -1,0 +1,1 @@
+This is Neural network and a Convolutional Neural Network model to perform vision task of predicting the digits from the MNIST dataset. This analysis also compares the differences between a linear neural network vs a Convolution neural network, thereby showing the CNN"s ability to perform better at vision tasks.
